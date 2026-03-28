@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Data Cleaning " src="https://github.com/user-attachments/assets/c4e7c0c5-404b-427d-84f8-1c2f2ac7f182" /># 🧹 Data Cleaning Tool (R Shiny App)
+# 🧹 Data Cleaning Tool (R Shiny App)
 
 An interactive **data cleaning web application** built using **R Shiny**.  
 This tool allows users to upload their own dataset and perform essential data cleaning operations dynamically without writing code.
